@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mottu\\Documents\\alura\\PadraoStrategy\\PadraoStrategy\\PadraoStrategy.csproj": {}
+    "C:\\Users\\grego\\Documents\\alura\\PadraoStrategy\\PadraoStrategy\\PadraoStrategy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mottu\\Documents\\alura\\PadraoStrategy\\PadraoStrategy\\PadraoStrategy.csproj": {
+    "C:\\Users\\grego\\Documents\\alura\\PadraoStrategy\\PadraoStrategy\\PadraoStrategy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mottu\\Documents\\alura\\PadraoStrategy\\PadraoStrategy\\PadraoStrategy.csproj",
+        "projectUniqueName": "C:\\Users\\grego\\Documents\\alura\\PadraoStrategy\\PadraoStrategy\\PadraoStrategy.csproj",
         "projectName": "PadraoStrategy",
-        "projectPath": "C:\\Users\\Mottu\\Documents\\alura\\PadraoStrategy\\PadraoStrategy\\PadraoStrategy.csproj",
-        "packagesPath": "C:\\Users\\Mottu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mottu\\Documents\\alura\\PadraoStrategy\\PadraoStrategy\\obj\\",
+        "projectPath": "C:\\Users\\grego\\Documents\\alura\\PadraoStrategy\\PadraoStrategy\\PadraoStrategy.csproj",
+        "packagesPath": "C:\\Users\\grego\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\grego\\Documents\\alura\\PadraoStrategy\\PadraoStrategy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mottu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\grego\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/mottu-ops/_packaging/mottu%40Local/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
