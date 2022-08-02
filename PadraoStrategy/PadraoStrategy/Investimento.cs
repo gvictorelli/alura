@@ -6,13 +6,8 @@ using System.Threading.Tasks;
 
 namespace PadraoStrategy
 {
-    public class Investimento
+    public interface Investimento
     {
-        public double Valor { get; private set; }
-
-        public Investimento(double valor)
-        {
-            Valor = valor;
-        }
+        public double calculaInvestimento(ContaBancaria contaBancaria);
     }
 }
